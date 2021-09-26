@@ -1,0 +1,15 @@
+.keyboard{
+     background-color: rgb(82, 78, 78);
+     color: black;
+     border: none;
+     outline: none;
+     margin: 10px 20px;
+     padding: 20px 40px;
+     border-radius: 10px;
+     box-shadow: 0 20px gray;
+     cursor: pointer;
+}
+.keyboard:active{
+     transform: translateY(7px);
+     box-shadow: 0 15px rgb(117, 115, 115);
+}
